@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: lang-detector-$NEXT_MINOR_VERSION
